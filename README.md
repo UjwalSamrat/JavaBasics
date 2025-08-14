@@ -1,36 +1,34 @@
-# Java Basics – Day 01
+# Java Basics – Day 02
 
-📅 **Date:** August 4, 2025  
+📅 **Date:** August 5, 2025  
 🧑‍💻 **By:** Ujwal Samrat  
-📁 **Topic:** Java Fundamentals – Day 01
+📁 **Topic:** Datatpyes plus Loops and Conditionals
 
 ---
 
 ## 🔥 What I Learned Today
-
-- Setting up Java environment (JDK + IDE)
-- Writing the first Java program (`HelloWorld.java`)
-- Understanding:
-  - `main()` method
-  - `System.out.println()`
-  - Basic syntax and class structure
-- How to take input from the user using `Scanner`
+- DataTyes in Java
+- Conditional Statements
+  - `if`, `else`, `else if`
+  - Nested conditionals
+- Loops
+  - `for`, `while`, and `do-while`
+- Basic flow control and logic building
 
 ---
 
 ## 📂 Files Added
 
-| File Name         | Description                                  |
-|------------------|----------------------------------------------|
-| `HelloWorld.java` | My first Java program – prints a message     |
-| `UserInput.java`  | Takes name from user and greets them         |
+| File Name         | Description                              |
+|------------------|------------------------------------------|
+| `Conditionals.java` | Demonstrates if-else and nested conditions |
+| `Loops.java`        | Examples of `for`, `while`, `do-while` loops |
 
 ---
 
 ## 🚀 How to Run
 
-1. Make sure you have Java installed (`java -version`)
-2. Compile the code:
+1. Compile:
    ```bash
-   javac HelloWorld.java
-   java HelloWorld
+   javac Loops.java
+   java Loops
