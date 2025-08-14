@@ -1,28 +1,25 @@
-# Java Basics – Day 02
+# Java Basics – Day 03
 
-📅 **Date:** August 5, 2025  
+📅 **Date:** August 14, 2025  
 🧑‍💻 **By:** Ujwal Samrat  
-📁 **Topic:** Datatpyes plus Loops and Conditionals
+📁 **Topic:** created simple ATM machine using Loops and conditional statements
 
 ---
+## 🛠 Concepts Practiced
+- Java **loops** (`while`, `do-while`)
+- Java **conditional statements** (`if-else`, `switch-case` if used)
+- **Scanner** class for taking user input
+- Basic **variables** and **arithmetic operations**
+- Logical flow control in programs
 
-## 🔥 What I Learned Today
-- DataTyes in Java
-- Conditional Statements
-  - `if`, `else`, `else if`
-  - Nested conditionals
-- Loops
-  - `for`, `while`, and `do-while`
-- Basic flow control and logic building
 
 ---
-
-## 📂 Files Added
-
-| File Name         | Description                              |
-|------------------|------------------------------------------|
-| `Conditionals.java` | Demonstrates if-else and nested conditions |
-| `Loops.java`        | Examples of `for`, `while`, `do-while` loops |
+## ✨ Features
+- ✅ **Check Balance**
+- ✅ **Deposit Money**
+- ✅ **Withdraw Money** (with balance check)
+- ✅ **Exit the Program**
+- ✅ **Loop until user chooses to exit**
 
 ---
 
@@ -30,5 +27,5 @@
 
 1. Compile:
    ```bash
-   javac Loops.java
-   java Loops
+   javac ATM.java
+   java ATM
